@@ -1,11 +1,8 @@
 
-
-button{
-    width: clamp(5px,30vw, 300px);
-    height: clamp(5px,10vw, 90px);
-    background-color: blue; 
+.button{
     color: white;
-    border-radius: 10px;
+    background-color: blue;
+    border-radius: 5%;
     transition: all 1s;
 }
 
